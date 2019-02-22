@@ -1,0 +1,8 @@
+{
+  "name": "graph-used",
+  "version": "0.0.1.21",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
